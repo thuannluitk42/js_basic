@@ -1,0 +1,21 @@
+/* Block */
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+
+/* Element */
+.card__title {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.card__text {
+  color: #666;
+}
+
+/* Modifier */
+.card__button--primary {
+  background: blue;
+  color: white;
+}
